@@ -8,5 +8,7 @@ namespace DapperTests_NET45
 {
     class Class1
     {
+        public Class1()
+        {}
     }
 }
